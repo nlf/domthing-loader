@@ -1,0 +1,23 @@
+{
+  "name": "domthing-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader for domthing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nlf/domthing-loader.git"
+  },
+  "keywords": [
+    "domthing",
+    "webpack"
+  ],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlf/domthing-loader/issues"
+  },
+  "homepage": "https://github.com/nlf/domthing-loader",
+  "peerDependencies": {
+    "domthing": "^0.3.1"
+  }
+}
